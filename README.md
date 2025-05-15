@@ -1,4 +1,4 @@
-# PBF-Frontend
+### PBF-Frontend
 
 ### 1. Instalasi Laravel
 
@@ -65,5 +65,8 @@ Server akan berjalan di `[http://127.0.0.1:8000]`
 * CRUD Table Mata Kuliah
   ![image](https://github.com/user-attachments/assets/f9594b6f-977a-4204-81a4-082e1b9a7e97)
 
+
+* ### Lisensi
+  Repositori ini dibuat untuk kepentingan edukasi dan tugas mata kuliah Pemrograman Berbasis Framework (PBF). Bebas digunakan untuk belajar dan pengembangan pribadi.
 
 
