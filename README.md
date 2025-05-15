@@ -23,3 +23,13 @@ composer install
 
 php artisan serve
 ```
+
+### 3. Konfigurasi Environment
+
+Salin file `.env.example` menjadi `.env` dan atur konfigurasi database:
+
+```bash
+cp .env.example .env
+```
+
+Edit file `.env` dan sesuaikan dengan konfigurasinya
