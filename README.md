@@ -9,7 +9,6 @@ composer create-project  laravel/laravel pbf_frontend
 
 ```
 cd pbf_frontend
-php artisan serve
 ```
 
 ### 2. Cara clone project
@@ -20,8 +19,6 @@ git clone https://github.com/ghinasafina/PBF-Frontend.git
 cd pbf-frontend
 
 composer install
-
-php artisan serve
 ```
 
 ### 3. Konfigurasi Environment
@@ -33,3 +30,13 @@ cp .env.example .env
 ```
 
 Edit file `.env` dan sesuaikan dengan konfigurasinya
+
+### 4. Jalankan Server Development
+
+```bash
+php artisan serve
+```
+
+Server akan berjalan di `[http://127.0.0.1:8000]`
+
+
