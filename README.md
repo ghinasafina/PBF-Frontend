@@ -15,7 +15,7 @@ php artisan serve
 **Cara clone project***
 
 ```
-git clone https://github.com/rifandi/pbf_frontend
+git clone https://github.com/ghinasafina/PBF-Frontend.git
 
 cd pbf-frontend
 
