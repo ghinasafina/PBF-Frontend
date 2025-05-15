@@ -1,6 +1,6 @@
 # PBF-Frontend
 
-**Instalasi Laravel**
+### 1. Instalasi Laravel
 
 ```
 composer create-project  laravel/laravel pbf_frontend
@@ -12,7 +12,7 @@ cd pbf_frontend
 php artisan serve
 ```
 
-**Cara clone project***
+### 2. Cara clone project
 
 ```
 git clone https://github.com/ghinasafina/PBF-Frontend.git
