@@ -3,7 +3,7 @@
 ### 1. Instalasi Laravel
 
 ```
-composer create-project  laravel/laravel pbf_frontend
+git clone create-project pbf_frontend
 
 ```
 
