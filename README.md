@@ -11,7 +11,7 @@ composer create-project laravel/laravel nama-proyekmu
 ```
 git clone https://github.com/ghinasafina/PBF-Frontend.git
 
-cd pbf-frontend
+cd pbf-frontend/project-root
 
 composer install
 ```
